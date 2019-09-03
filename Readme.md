@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Андрей Садоводов](https://up.htmlacademy.ru/htmlcss/26/user/1171261).
+* Наставник: [Роман Марченко](https://htmlacademy.ru/profile/id505487)
 
 ---
 
